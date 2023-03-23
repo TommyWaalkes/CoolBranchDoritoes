@@ -1,3 +1,4 @@
-function subtract(x,y){
+
+function mulitply(x,y){
     return "x + y hello world"; 
 }
